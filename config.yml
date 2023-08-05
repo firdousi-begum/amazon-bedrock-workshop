@@ -1,0 +1,3 @@
+bedrock-preview:
+  endpoint: 'https://prod.us-west-2.frontend.bedrock.aws.dev'
+  region: 'us-west-2'
